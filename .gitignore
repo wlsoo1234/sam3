@@ -153,3 +153,4 @@ Thumbs.db
 *.vocab
 
 hf_token.txt
+sam3_env
