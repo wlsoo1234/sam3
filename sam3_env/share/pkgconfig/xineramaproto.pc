@@ -1,7 +1,0 @@
-prefix=/scr/user/wlsoo/sam3/sam3_env
-includedir=${prefix}/include
- 
-Name: XineramaProto
-Description: Xinerama extension headers
-Version: 1.2.1
-Cflags: -I${includedir}
